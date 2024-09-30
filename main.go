@@ -7,10 +7,6 @@ import (
 	"github.com/anacrolix/torrent"
 	"github.com/robfig/cron/v3"
 	log "github.com/sirupsen/logrus"
-
-	"github.com/thank243/trafficConsume/app/client"
-	"github.com/thank243/trafficConsume/common/metahash"
-	"github.com/thank243/trafficConsume/storage"
 )
 
 func main() {
